@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspose.Slides.Addons.Sdk", "Aspose.Slides.Addons.Sdk\Aspose.Slides.Addons.Sdk.csproj", "{1F61FD78-7A48-4BAC-8E13-7F72601EDC47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspose.Slides.Addons.Sdk.Tests", "Aspose.Slides.Addons.Sdk.Tests\Aspose.Slides.Addons.Sdk.Tests.csproj", "{C36D1776-D0AF-475B-99F9-81BE0D7E8F44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F61FD78-7A48-4BAC-8E13-7F72601EDC47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F61FD78-7A48-4BAC-8E13-7F72601EDC47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F61FD78-7A48-4BAC-8E13-7F72601EDC47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F61FD78-7A48-4BAC-8E13-7F72601EDC47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C36D1776-D0AF-475B-99F9-81BE0D7E8F44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C36D1776-D0AF-475B-99F9-81BE0D7E8F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C36D1776-D0AF-475B-99F9-81BE0D7E8F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C36D1776-D0AF-475B-99F9-81BE0D7E8F44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
